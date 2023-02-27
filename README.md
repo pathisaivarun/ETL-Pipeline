@@ -1,4 +1,4 @@
-# learning_de
+# ETL Pipeline
 
 In this project, I have created a small pipeline which will do
 1) Data collection
